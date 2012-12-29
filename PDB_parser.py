@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 
-#######Sean_Gibbons###########Compute_Method_Biophys###############09/18/12##########
+__author__ = "Sean Gibbons"
+__copyright__ = "Copyright 2012, BPHS"
+__credits__ = ["Sean Gibbons", "James Crooks"]
+__license__ = "GPL"
+__version__ = "0.0.0-dev"
+__maintainer__ = "Sean Gibbons"
+__email__ = "monsieursean@gmail.com"
+__status__ = "Development"
 
 ##Usage: python PDB_parser.py <input PDB file name>
 
