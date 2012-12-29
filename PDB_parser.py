@@ -2,7 +2,7 @@
 
 #######Sean_Gibbons###########Compute_Method_Biophys###############09/18/12##########
 
-##Usage: python PDB_parser_sg.py <input PDB file name>
+##Usage: python PDB_parser.py <input PDB file name>
 
 import fileinput, re
 
